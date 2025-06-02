@@ -1,0 +1,8 @@
+# Ignore Node.js dependencies
+client/node_modules/
+server/node_modules/
+
+# Ignore environment variables
+client/.env
+server/.env
+
